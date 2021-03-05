@@ -5,6 +5,7 @@
 * [Apresentation](#apresentation)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [API](#api)
 
 ## Apresentation
 ![](assets/button-web-component-hd.gif)
@@ -14,3 +15,9 @@
 
 ## Setup
 Just open index.html in your browser to see this button
+
+## API
+
+| Name  |  Description  |
+| ------------------- | ------------------- |
+|  title |  the description of the button |
